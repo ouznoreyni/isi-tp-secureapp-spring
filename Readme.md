@@ -1,4 +1,4 @@
-# Guide simplifié pour Spring Boot avec MySQL (sans Tomcat externe)
+# Spring Boot avec MySQL
 
 ## Environnement
 - JDK 17
